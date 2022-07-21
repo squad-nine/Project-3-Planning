@@ -8,4 +8,9 @@ Users will be able to create profiles to store their comic book information and 
 Users will be able to view other users profile without editing their comic books
 
 We will have routes that will take you to a Login Page, Sign Up Page, your comic book collection, Edit Page.
-there will be in back-end /login for the Login page,
+there will be in back-end /login route for the Login page to show the Login Page and allow them to log in
+a /signup route for the Sign Up Page to show the Sign Up Page and sign up authenticated
+a /comicbooklist  route for the index of all the comic books the user has
+a /comicbook route that shows a single comic book that a user clicks on to edit,delete, and update
+
+
