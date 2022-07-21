@@ -9,6 +9,15 @@ Users will be able to create profiles to store their comic book information and 
 Users will be able to view other users profile without editing their comic books
 
 We will have routes that will take you to a Login Page, Sign Up Page, your comic book collection, Edit Page.
+* /login will take you to the login page
+* /signup will take you to the sign up page
+* /comicbooklist will take you to your comic book collection
+* /comicbook will take you to the comic book you click on and enable you to edit/delete that particular comic book
+
+Technologies used:
+* React-Router
+* JS,TS, MongoDB, Mongoose, Node.js, Express.js
+* CSS, HTML, API
 
 
 
