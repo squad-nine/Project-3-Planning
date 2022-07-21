@@ -50,7 +50,8 @@ a /comicbooklist  route for the index of all the comic books the user has
 
 
 Models and Properties
- ```js comicBook = {
+ ```js 
+comicBook = {
 name:'string',
 published:'string',
 condition:'string',
