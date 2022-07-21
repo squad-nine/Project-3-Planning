@@ -66,17 +66,25 @@ password:'string'
 ```
 
 
-Stretch goals:
-Being able to view other users pages
-Being able to set profile to public or private
-Being able to customize your profile i.e: profile picture,about me
+# Stretch goals
+<ul>
+<li>Being able to view other users pages</li>
+<li>Being able to set profile to public or private</li>
+<li>Being able to customize your profile i.e: profile picture,about me</li>
+</ul>
 
-Scrum Master: Brandon Wenning
-Roles:
-Front-end team:
-Will G. :CSS Styling/State management
-Urvil P. :front-end routes/connecting front-end/back-end
-Back-end team:
-Chelsae D: MongoDB connections/models/Schemas
-Brandon W: CRUD/Routes/back-end/Scrum Master/userauth
+## Scrum Master: Brandon Wenning
+
+# Roles
+## Front-end team:
+<ul>
+<li> Will G. :CSS Styling/State management</li>
+<li> Urvil P. :front-end routes/connecting front-end/back-end </li>
+<ul>
+
+## Back-end team:
+<ul>
+<li>Chelsae D: MongoDB connections/models/Schemas </li>
+<li>Brandon W: CRUD/Routes/back-end/Scrum Master/userauth </li>
+</ul>
 
