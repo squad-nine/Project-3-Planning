@@ -21,7 +21,8 @@ Users will be able to view other users profile without editing their comic books
  <ul>
  
 </details>
-Technologies used:
+
+# Technologies used:
 <ul>
 <li>React-Router</li>
 <li>JS,TS, MongoDB, Mongoose, Node.js, Express.js</li>
