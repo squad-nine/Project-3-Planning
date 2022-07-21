@@ -1,4 +1,4 @@
-# Project-3-Planning
+# Project-3-Comical
 
 This app will allow you to store your comic book collection on the Web!
 This app will let you edit,delete,add comic books.
@@ -82,6 +82,7 @@ password:'string'
 <li> Will G. :CSS Styling/State management</li>
 <li> Urvil P. :front-end routes/connecting front-end/back-end </li>
 <ul>
+
 
 ## Back-end team:
 <ul>
