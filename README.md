@@ -22,9 +22,11 @@ Users will be able to view other users profile without editing their comic books
  
 </details>
 Technologies used:
-* React-Router
-* JS,TS, MongoDB, Mongoose, Node.js, Express.js
-* CSS, HTML, API
+<ul>
+<li>React-Router</li>
+<li>JS,TS, MongoDB, Mongoose, Node.js, Express.js</li>
+<li> CSS, HTML, API </li>
+</ul>
 
 
 
@@ -48,18 +50,19 @@ a /comicbooklist  route for the index of all the comic books the user has
 
 
 Models and Properties
- comicBook = {
-Name:'',
-Published:'',
-Condition:'',
-Date:
+ ```js comicBook = {
+name:'string',
+published:'string',
+condition:'string',
+date: number
 }
 
 userProfile = {
-username:'',
-email:'',
-password:''
+username:'string',
+email:'string',
+password:'string'
 }
+```
 
 
 Stretch goals:
