@@ -14,4 +14,31 @@ a /comicbooklist  route for the index of all the comic books the user has
 a /comicbook route that shows a single comic book that a user clicks on to edit,delete, and update
 a /home route that shows the words "Welcome to Comical! Click the Sign Up button to create an account! If you already have an account click the Login Button!" It will have a Login button and Sign Up button
 
+ comicBook = {
+Name:'',
+Published:'',
+Condition:'',
+Date:
+}
+
+userProfile = {
+username:'',
+email:'',
+password:''
+}
+
+
+Stretch goals:
+Being able to view other users pages
+Being able to set profile to public or private
+Being able to customize your profile i.e: profile picture,about me
+
+Scrum Master: Brandon Wenning
+Roles:
+Front-end team:
+Will G. :CSS Styling/State management
+Urvil P. :front-end routes/connecting front-end/back-end
+Back-end team:
+Chelsae D: MongoDB connections/models/Schemas
+Brandon W: CRUD/Routes/back-end/Scrum Master/userauth
 
