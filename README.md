@@ -12,5 +12,6 @@ there will be in back-end /login route for the Login page to show the Login Page
 a /signup route for the Sign Up Page to show the Sign Up Page and sign up authenticated
 a /comicbooklist  route for the index of all the comic books the user has
 a /comicbook route that shows a single comic book that a user clicks on to edit,delete, and update
+a /home route that shows the words "Welcome to Comical! Click the Sign Up button to create an account! If you already have an account click the Login Button!" It will have a Login button and Sign Up button
 
 
