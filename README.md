@@ -9,13 +9,26 @@ Users will be able to create profiles to store their comic book information and 
 Users will be able to view other users profile without editing their comic books
 
 We will have routes that will take you to a Login Page, Sign Up Page, your comic book collection, Edit Page.
-there will be in back-end /login route for the Login page to show the Login Page and allow them to log in
-a /signup route for the Sign Up Page to show the Sign Up Page and sign up authenticated
-a /comicbooklist  route for the index of all the comic books the user has
-a /comicbook route that shows a single comic book that a user clicks on to edit,delete, and update
+
+
+
+
 a /home route that shows the words "Welcome to Comical! Click the Sign Up button to create an account! If you already have an account click the Login Button!" It will have a Login button and Sign Up button
 
 ![image](https://user-images.githubusercontent.com/102195640/180117261-880a7a5b-ceb1-455f-b885-c267ffd1ac4d.png)
+
+here will be in back-end /login route for the Login page to show the Login Page and allow them to log in
+![image](https://user-images.githubusercontent.com/102195640/180117494-3b2605de-2cd6-4030-ada3-00b064322092.png)
+
+
+a /signup route for the Sign Up Page to show the Sign Up Page and sign up authenticated
+![image](https://user-images.githubusercontent.com/102195640/180117560-37c8fac3-53d9-4f86-8da3-24b78751f28c.png)
+
+a /comicbook route that shows a single comic book that a user clicks on to edit,delete, and update
+![image](https://user-images.githubusercontent.com/102195640/180117796-6cea163a-23c4-4e00-814b-ae8650489c23.png)
+
+a /comicbooklist  route for the index of all the comic books the user has
+![image](https://user-images.githubusercontent.com/102195640/180117867-c66ac2ef-9455-46b1-aafa-fa45c42de006.png)
 
 
 
