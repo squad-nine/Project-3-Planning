@@ -1,5 +1,5 @@
 # Project-3-Planning
-img src='./Wireframes/HomePage.png' alt='./Wireframes/HomePage.png'
+
 This app will allow you to store your comic book collection on the Web!
 This app will let you edit,delete,add comic books.
 When adding comic books it will allow you to put the name, the date you obtained it, and condition of the comic book.
@@ -14,6 +14,10 @@ a /signup route for the Sign Up Page to show the Sign Up Page and sign up authen
 a /comicbooklist  route for the index of all the comic books the user has
 a /comicbook route that shows a single comic book that a user clicks on to edit,delete, and update
 a /home route that shows the words "Welcome to Comical! Click the Sign Up button to create an account! If you already have an account click the Login Button!" It will have a Login button and Sign Up button
+
+![image](https://user-images.githubusercontent.com/102195640/180117261-880a7a5b-ceb1-455f-b885-c267ffd1ac4d.png)
+
+
 
  comicBook = {
 Name:'',
