@@ -31,7 +31,7 @@ a /comicbooklist  route for the index of all the comic books the user has
 ![image](https://user-images.githubusercontent.com/102195640/180117867-c66ac2ef-9455-46b1-aafa-fa45c42de006.png)
 
 
-
+Models and Properties
  comicBook = {
 Name:'',
 Published:'',
