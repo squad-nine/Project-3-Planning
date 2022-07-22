@@ -21,6 +21,14 @@ Users will be able to view other users profile without editing their comic books
  
 </details>
 
+# MVP
+- User can sign up to create an account
+- User can login after making an account
+- User will be able to create a comic book collection
+- User will be able to view their comic book collection
+- User will be able to look at an individual comic book in their list and edit/delete
+
+
 # Technologies used:
 
 - React-Router
