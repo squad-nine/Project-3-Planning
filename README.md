@@ -75,6 +75,7 @@ userProfile = {
 - Being able to view other users pages
 - Being able to set profile to public or private
 - Being able to customize your profile i.e: profile picture,about me
+- Being able to click on the comic book that is attached to a link
 
 ## Scrum Master: Brandon Wenning
 
